@@ -1,6 +1,8 @@
 # Monte Carlo Simulation for Portfolio Optimization
 
-## Description: This Python project demonstrates advanced portfolio optimization using Monte Carlo Simulation, aligning with strategic financial decision-making skills essential for roles like Tesla's FP&A position. Over 10 years of monthly stock return data for 10 companies are imported and analyzed using Python libraries like pandas, NumPy, matplotlib, seaborn, and yfinance. 
+## Description: 
+
+**This Python project demonstrates advanced portfolio optimization using Monte Carlo Simulation, aligning with strategic financial decision-making skills essential for roles like Tesla's FP&A position. Over 10 years of monthly stock return data for 10 companies are imported and analyzed using Python libraries like pandas, NumPy, matplotlib, seaborn, and yfinance.**
 
 ### Key features include:
 * Data Cleaning and Analysis: Implemented efficient data parsing and cleaning to handle real-world financial data, focusing on Adjusted Close Values and eliminating nulls for accuracy.
